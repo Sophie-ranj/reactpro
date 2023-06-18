@@ -4,6 +4,7 @@
   padding: 16px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
+  max-width: 600px;
 }
 
 .Weather h1 {
@@ -30,7 +31,7 @@
   color: rgb(33, 33, 33);
   font-size: 64px;
   line-height: 64px;
-  margin-left: 5px;
+  margin-top: 15px;
   font-weight: 400;
   margin-left: 10px;
 }
